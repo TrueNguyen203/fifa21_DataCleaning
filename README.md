@@ -18,3 +18,5 @@ Task:
   - SM
   - IR
   - Hits
+
+- Using Logistic Regression to predict the best position for player with the acurracy of 85%
